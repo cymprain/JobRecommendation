@@ -1,1 +1,11 @@
 entity\Item$1.class
+entity\Item$ItemBuilder.class
+rpc\ItemHistory.class
+db\MySQLDBUtil.class
+entity\Item.class
+rpc\RecommendItem.class
+db\MySQLConnection.class
+external\GitHubClient.class
+db\MySQLTableCreation.class
+rpc\SearchItem.class
+rpc\RpcHelper.class
