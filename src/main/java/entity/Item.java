@@ -42,7 +42,10 @@ public class Item {
 	public String getUrl() {
 		return url;
 	}
-	
+	public void setKeywords(Set<String> keywords) {
+		this.keywords = keywords;
+	}
+
 	public JSONObject toJSONObject() {
 		JSONObject obj = new JSONObject();
 		try {

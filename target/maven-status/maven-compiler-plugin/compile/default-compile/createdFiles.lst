@@ -5,6 +5,7 @@ db\MySQLDBUtil.class
 entity\Item.class
 rpc\RecommendItem.class
 db\MySQLConnection.class
+external\MonkeyLearnClient.class
 external\GitHubClient.class
 db\MySQLTableCreation.class
 rpc\SearchItem.class
